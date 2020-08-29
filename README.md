@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Интеграция информационных блоков в статью.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_InfoBox`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,7 +11,7 @@
 wfLoadExtension( 'MW_EXT_InfoBox' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 {{#infobox: type = Website
@@ -25,6 +25,6 @@ wfLoadExtension( 'MW_EXT_InfoBox' );
 }}
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
